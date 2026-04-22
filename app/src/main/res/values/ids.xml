@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvQuestion" type="id"/>
+    <item name="tvFeedback" type="id"/>
+    <item name="btnTrue" type="id"/>
+    <item name="btnFalse" type="id"/>
+    <item name="btnNext" type="id"/>
+</resources>

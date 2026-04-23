@@ -82,3 +82,8 @@ ________________________________________
 12. Developer
 Created by: Melvin Matjiu
 
+[REFERENCE BY MELVIN]
+
+13.video represantation
+- https://youtu.be/qCKDy67VZOw
+
